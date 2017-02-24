@@ -33,7 +33,7 @@ suites:
   - name: service-systemd
     includes: [
     'debian-8.6',
-    'centos-7.2',
+    'centos-7.3',
     'fedora-25',
     'ubuntu-16.04'
     ]
@@ -43,7 +43,7 @@ suites:
   - name: service-systemd-multi
     includes: [
     'debian-8.6',
-    'centos-7.2',
+    'centos-7.3',
     'fedora-25',
     'ubuntu-16.04'
     ]
