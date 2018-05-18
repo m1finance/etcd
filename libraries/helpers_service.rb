@@ -62,7 +62,7 @@ module EtcdCookbook
       end
 
       def etcd_name
-        "etcd-#{new_resource.node_name}"
+        'etcd'
       end
 
       def etcdctl_bin
